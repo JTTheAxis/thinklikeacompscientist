@@ -1,15 +1,6 @@
 import string
 
 "ONE"
-eval("Python"[1])=="n"
-eval("Strings are sequences of characters."[5])=="g"
-eval(len("wonderful"))==9
-eval("Mystery"[:4])=="Myste"
-eval("p" in "Pineapple")==True
-eval("apple" in "Pineapple")==True
-eval("pear" not in "Pineapple")=True
-eval("apple" > "pineapple")==False
-eval("pineapple" < "Peach")==False
 
 "TWO"
 prefixes= "JKLMNOPQ"
